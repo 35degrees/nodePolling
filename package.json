@@ -1,0 +1,15 @@
+{
+  "name": "nodepolling0218",
+  "version": "1.0.0",
+  "description": "real time app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Sam Hooker",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
